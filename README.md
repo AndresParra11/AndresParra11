@@ -18,19 +18,19 @@
 
   <h4 align="center">A ver... ¿Qué les cuento?</h4>
   
-- ✍ Actualmente estoy estudiando desarrollo web Front-End en [BootCamp Makaia](https://makaia.org/en/emergencyfund/)  
+- ✍ Actualmente soy desarrollador web Front-End, estudié y me certifiqué en [BootCamp Makaia](https://makaia.org/en/emergencyfund/).
   
 
-- 🌱 En estos momentos estoy aprendiendo React.js y Java  
+- 🌱 En estos momentos estoy especializándome en React.js y estoy aprendiendo Java. 
   
 
 - ❓ Pregúnteme sobre cualquier cosa relacionada con la HTML5, CSS3 y JavaScript.   
   
 
-- ⚡ Dato curioso: codeo mejor sin zapatos  
+- ⚡ Dato curioso: codeo mejor sin zapatos.
   
 
-- 🏀 Juego baloncesto hace 12 años, cualquier invitación me avisan  
+- 🏀 Juego baloncesto hace 13 años, cualquier invitación me avisan.
 
 
 </td></tr></table>  
