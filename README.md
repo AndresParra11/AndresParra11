@@ -24,7 +24,7 @@
 - 🌱 En estos momentos estoy especializándome en React.js y estoy aprendiendo Java. 
   
 
-- ❓ Pregúnteme sobre cualquier cosa relacionada con la HTML5, CSS3 y JavaScript.   
+- ❓ Pregúnteme sobre cualquier cosa relacionada con la HTML5, CSS3, JavaScript, React.JS, SASS y Git. 
   
 
 - ⚡ Dato curioso: codeo mejor sin zapatos.
